@@ -5,7 +5,7 @@ body {
     box-sizing: border-box;
   }
   form.example input[type=text] {
-    padding: 15px;
+    padding: 10px;
     font-size: 17px;
     border: 1px solid grey;
     float: left;
@@ -15,7 +15,7 @@ body {
   form.example button {
     float: left;
     width: 80%;
-    padding: 15px;
+    padding: 10px;
     background: #2196F3;
     color: white;
     font-size: 17px;
